@@ -11,4 +11,4 @@ Lastly open the program and select "Model Browser" --> robots\mobile
 You are ready for used the K4 robot en V-REP
 
 Autors: Emmanuel Peralta H, Ernesto Fabregas A, Gonzalo Farias C, Sebastian Dormido C. 
-Collaborators: Enrique Torres, Héctor Vargas O. 
+Collaborators: Enrique Torres, Hector Vargas O. 
